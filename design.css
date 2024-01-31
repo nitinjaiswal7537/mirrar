@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  header{
+    text-align: center;
+    padding-top: 20%;
+    font-size: x-large;
+  }
+  body {
+    text-align: center;
+    font-family: 'montserrat', sans-serif;
+    
+    background-size: cover;
+    background-position: top center;
+  }
+  
+  
